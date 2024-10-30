@@ -1,6 +1,186 @@
 [
         {
             "name":"Wallpaper_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_1.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_2.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_3.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_4.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_5.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_6.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_7.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_8.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_9.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_10.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_11.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_11.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_12.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_12.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_13.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_13.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_14.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_14.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_15.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_15.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_16.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_16.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_17",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_17.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_17.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_18",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_18.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_18.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_19",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_19.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_20",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_40/Wallpaper_20.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_40/Wallpaper_20.jpg",
+            "collections":"Collection_40",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Wallpaper_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Wallpapers/Collection_39/Wallpaper_1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/discard-wallpapers/main/Thumbnails/Collection_39/Wallpaper_1.jpg",
             "collections":"Collection_39",
